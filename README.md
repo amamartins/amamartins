@@ -1,6 +1,7 @@
 ## Hello!
 
 I'm Ama. Welcome to my little corner of the internet.
+<img width="400" height="400" alt="download" src="https://github.com/user-attachments/assets/774a5934-1729-4a71-82e1-77f293edfdac" />
 
 I'm a cybersecurity student interested in SOC operations, threat detection, and incident response. Just documenting my journey within security analysis.
 
